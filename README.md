@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # bes
 
 >作者:胡康哲
@@ -24,3 +25,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vue_bes
+vue+cesium毕设
+>>>>>>> remotes/origin/main
